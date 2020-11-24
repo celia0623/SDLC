@@ -12,3 +12,6 @@ implementation
 maintenance
 
 Methodologies
+lean
+waterfall
+spiral
