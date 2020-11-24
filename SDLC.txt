@@ -1,4 +1,5 @@
 defentions of SDLC
+The SDLC is
 
 purpose
 
