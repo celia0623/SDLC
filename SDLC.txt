@@ -3,5 +3,10 @@ defentions of SDLC
 purpose
 
 Stages
+planning
+analysis
+design
+development
+testing
 
 Methodologies
